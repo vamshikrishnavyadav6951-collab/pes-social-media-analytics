@@ -11,7 +11,7 @@
  <h1>welcome to analytics practice site</h1>
  <p>this site is used for google analytics practics.</p>
 
- <botton id="buybtn">buy now </button>
+ <button> id="buybtn">buy now </button>
 
 </body>
 </head>
